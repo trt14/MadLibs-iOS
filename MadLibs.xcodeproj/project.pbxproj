@@ -16,6 +16,7 @@
 		D8B32059276B22B500C6E1CC /* MadLibsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8B32058276B22B500C6E1CC /* MadLibsTests.swift */; };
 		D8B32063276B22B500C6E1CC /* MadLibsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8B32062276B22B500C6E1CC /* MadLibsUITests.swift */; };
 		D8B32065276B22B500C6E1CC /* MadLibsUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8B32064276B22B500C6E1CC /* MadLibsUITestsLaunchTests.swift */; };
+		D8B32074276B270B00C6E1CC /* SecViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8B32073276B270B00C6E1CC /* SecViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		D8B3205E276B22B500C6E1CC /* MadLibsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MadLibsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D8B32062276B22B500C6E1CC /* MadLibsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MadLibsUITests.swift; sourceTree = "<group>"; };
 		D8B32064276B22B500C6E1CC /* MadLibsUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MadLibsUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		D8B32073276B270B00C6E1CC /* SecViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				D8B3204A276B22B400C6E1CC /* Assets.xcassets */,
 				D8B3204C276B22B400C6E1CC /* LaunchScreen.storyboard */,
 				D8B3204F276B22B400C6E1CC /* Info.plist */,
+				D8B32073276B270B00C6E1CC /* SecViewController.swift */,
 			);
 			path = MadLibs;
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D8B32074276B270B00C6E1CC /* SecViewController.swift in Sources */,
 				D8B32046276B22AD00C6E1CC /* ViewController.swift in Sources */,
 				D8B32042276B22AD00C6E1CC /* AppDelegate.swift in Sources */,
 				D8B32044276B22AD00C6E1CC /* SceneDelegate.swift in Sources */,
